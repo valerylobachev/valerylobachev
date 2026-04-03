@@ -110,12 +110,12 @@ Docker · Kubernetes · Keycloak · Gitlab CI/CD
 |---|---|---|---|
 | 2026 | Multi-Agent AI Sales Forecasting System | Architect / Dev | Python, LangGraph, vLLM, MLFlow |
 | 2026 | AI Application Processing System (LLM) | Architect / Dev | Go, Kafka, Python, React/SAP UI5 |
-| 2023–25 | RZhD Wagon Management System (SAP PM replacement) | Chief Architect | Kotlin, Spring Boot, Kafka, K8s |
-| 2021–23 | Pre-Failure Monitoring & Predictive Maintenance | Architect | Hadoop, Spark, Scala, Akka, Kafka |
+| 2023–2025 | RZhD Wagon Management System (SAP PM replacement) | Chief Architect | Kotlin, Spring Boot, Kafka, K8s |
+| 2021–2023 | Pre-Failure Monitoring & Predictive Maintenance | Architect | Hadoop, Spark, Scala, Akka, Kafka |
 | 2021 | SAP ECC → S/4HANA Conversion (Discovery Phase) | FI/CO Architect | SAP ECC, S/4HANA |
-| 2019–21 | MVideo-Eldorado Intranet Portal 🏆 | Chief Architect | Scala, Akka, K8s, Kafka, Keycloak |
-| 2018–19 | Rosneft Digital Transformation Architecture | Solution Architect | SAP, Hadoop, AI/ML concepts |
-| 2014–16 | BAT Global SAP Rollout — 20+ countries | Lead FI/CO Consultant | SAP CO, IFRS parallel valuations |
+| 2019–2021 | MVideo-Eldorado Intranet Portal 🏆 | Chief Architect | Scala, Akka, K8s, Kafka, Keycloak |
+| 2018–2019 | Rosneft Digital Transformation Architecture | Solution Architect | SAP, Hadoop, AI/ML concepts |
+| 2014–2016 | BAT Global SAP Rollout — 20+ countries | Lead FI/CO Consultant | SAP CO, IFRS parallel valuations |
 
 ---
 
