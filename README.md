@@ -62,13 +62,13 @@ object OrderDomain {
 
 ---
 
-### [`bench-pg`](https://github.com/valerylobachev/bench-pg) &nbsp;·&nbsp; Rust &nbsp;·&nbsp; ⭐ 1
+### [`bench-pg`](https://github.com/valerylobachev/bench-pg) &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Go ·&nbsp; ⭐ 1
 
 **Cross-language PostgreSQL benchmarking suite** designed to measure and compare the performance of different database driver libraries under a realistic, business-like workload.
 
 - Benchmarks PostgreSQL drivers across **multiple languages** side by side
 - Realistic workload patterns (not just synthetic TPC-B)
-- Written in **Rust** for precise, low-overhead measurement
+- Written in **Rust** and **Go** for precise, low-overhead measurement
 - Useful for choosing the right ORM/driver stack for your production system
 
 ---
@@ -76,18 +76,6 @@ object OrderDomain {
 ### [`hdfs-replicator`](https://github.com/valerylobachev/hdfs-replicator) &nbsp;·&nbsp; Go &nbsp;·&nbsp; ⭐ 3
 
 **Tool to replicate files from an HDFS source path to a local destination**, excluding previously copied files. Built during production Big Data work (Hadoop/Spark ML pipelines for predictive maintenance systems).
-
----
-
-### [`axon-frontend-angular`](https://github.com/valerylobachev/axon-frontend-angular) &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; ⭐ 1
-
-**Frontend for the Annette Axon business platform.** Angular-based micro-frontend implementation demonstrating the UI architecture of the Annette Platform ecosystem — role-based access control, multi-app navigation, and SAP-style UX patterns.
-
----
-
-### [`apache-poi-word`](https://github.com/valerylobachev/apache-poi-word) &nbsp;·&nbsp; Java &nbsp;·&nbsp; ⭐ 2
-
-Utilities and examples for programmatic Word document generation using **Apache POI**, developed during enterprise reporting automation projects.
 
 ---
 
