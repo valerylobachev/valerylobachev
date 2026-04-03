@@ -86,7 +86,7 @@ The **[Annette Platform](https://github.com/annetteplatform/annette)** (`annette
 **Battle-tested in production:**
 - **TELE2 Logistics System** — ~700 users, SAP ERP on HANA integration
 - **MIMC Application Processing System** — Moscow International Medical Cluster
-- **MVideo-Eldorado Intranet Portal** — 50,000+ employees · 🏆 **[Intranet 2020 Award](https://www.intranetaward.com/)**
+- **MVideo-Eldorado Intranet Portal** — 50,000+ employees · 🏆 **Intranet 2020 Award**
 
 **Architecture highlights:**
 - Reactive / non-blocking throughout (Akka, Lagom, Pekko)
