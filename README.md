@@ -62,7 +62,7 @@ object OrderDomain {
 
 ---
 
-### [`bench-pg`](https://github.com/valerylobachev/bench-pg) &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Go ·&nbsp; ⭐ 1
+### [`bench-pg`](https://github.com/valerylobachev/bench-pg) &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Go ·&nbsp; Java ·&nbsp; Scala ·&nbsp; ⭐ 1
 
 **Cross-language PostgreSQL benchmarking suite** designed to measure and compare the performance of different database driver libraries under a realistic, business-like workload.
 
