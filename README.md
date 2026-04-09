@@ -68,7 +68,7 @@ object OrderDomain {
 
 - Benchmarks PostgreSQL drivers across **multiple languages** side by side
 - Realistic workload patterns (not just synthetic TPC-B)
-- Written in **Rust** and **Go** for precise, low-overhead measurement
+- Written in Rust, Go, Java, and Scala for precise, low-overhead measurement
 - Useful for choosing the right ORM/driver stack for your production system
 
 ---
