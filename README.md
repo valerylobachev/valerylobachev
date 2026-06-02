@@ -79,7 +79,7 @@ object OrderDomain {
 
 ---
 
-## 🏢 Annette Platform Ecosystem
+## 🏢 Annette Platform Ecosystem &nbsp; ⭐ 19
 
 The **[Annette Platform](https://github.com/annetteplatform/annette)** (`annetteplatform` org) is my main open source initiative — a production-grade distributed microservice platform for building enterprise applications.
 
